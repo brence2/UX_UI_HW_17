@@ -57,3 +57,12 @@ li {
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+button {
+    background-color: #3C61BF;
+    color: white;
+    width: 325px;
+    height: 61px;
+    border-radius: 20px;
+    font-size: medium;
+}
